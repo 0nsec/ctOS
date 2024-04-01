@@ -80,8 +80,6 @@ yay -S mugshot xfce4-plugin-profiles
 - Cleanup install scripts
 - Fix any errors
 - EVENTUALLY configure a preset ISO with everything set up
-
-Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
 -----------------------------------------------
 
   
