@@ -8,7 +8,7 @@
 ```
 -----------------------------------------------------------------------------------------
 # ctOS 2.0 
-![test image](https://raw.githubusercontent.com/0nsec/ctOS/main/SVG.JPG?token=GHSAT0AAAAAACQIUDPGG4X2BX2T3D4S5CVAZQLENAA)
+![test image](https://raw.githubusercontent.com/0nsec/ctOS/main/SVG.JPG)
 -----------------------------------------------------------------------------------------
 # About
 A Rising of ctOS 2.0 from Watch_Dogs 2, built using the XFCE Desktop in Arch Linux you can also try in debian. 
