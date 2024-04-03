@@ -1,16 +1,4 @@
-# CtOS Dot file by 0nsec
-```sh
-██████╗ ███╗   ██╗███████╗███████╗ ██████╗
-██╔═████╗████╗  ██║██╔════╝██╔════╝██╔════╝
-██║██╔██║██╔██╗ ██║███████╗█████╗  ██║     
-████╔╝██║██║╚██╗██║╚════██║██╔══╝  ██║     
-╚██████╔╝██║ ╚████║███████║███████╗╚██████╗
- ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝
-```
------------------------------------------------------------------------------------------
-## ctOS 2.0 Screenshot
-![test image](https://raw.githubusercontent.com/0nsec/ctOS/main/SVG.JPG)
------------------------------------------------------------------------------------------
+
 # About
 A Rising of ctOS 2.0 from Watch_Dogs 2, built using the XFCE Desktop in Arch Linux you can also try in debian. 
 Built using high quality production images and stills from the game, made to be as accurate as possible, while still being usable as an everyday desktop.
@@ -22,6 +10,9 @@ this ctOS only for watch_dogs fans.
 - Fonts
 - Wallpapers
 ------------------------------------
+## ctOS 2.0 Screenshot
+![timage](https://raw.githubusercontent.com/0nsec/ctOS/main/SVG.JPG)
+-----------------------------------------------------------------------------------------
 # Requirements
 - ```xfce4```
 - ```xfce4-places-plugin```
@@ -76,10 +67,23 @@ pacman -S yay
 yay -S mugshot xfce4-plugin-profiles
 ```
 ------------------------------------------------
+![hacked](https://github.com/0nsec/ctOS/assets/99223413/9510616c-d9ef-4e80-ac24-deebc41a9f7b)
+-
+![image](https://raw.githubusercontent.com/0nsec/ctOS/main/Wallpapers/dedsec-pur.gif)
+
 # To Do
 - Cleanup install scripts
 - Fix any errors
 - EVENTUALLY configure a preset ISO with everything set up
 -----------------------------------------------
-
+  # CtOS Dot file by 0nsec
+```sh
+██████╗ ███╗   ██╗███████╗███████╗ ██████╗
+██╔═████╗████╗  ██║██╔════╝██╔════╝██╔════╝
+██║██╔██║██╔██╗ ██║███████╗█████╗  ██║     
+████╔╝██║██║╚██╗██║╚════██║██╔══╝  ██║     
+╚██████╔╝██║ ╚████║███████║███████╗╚██████╗
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝
+```
+-----------------------------------------------------------------------------------------
   
