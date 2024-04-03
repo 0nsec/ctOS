@@ -1,5 +1,19 @@
 
 # About
+```
+ _______   ________  _______    ______   ________   ______  
+/       \ /        |/       \  /      \ /        | /      \ 
+$$$$$$$  |$$$$$$$$/ $$$$$$$  |/$$$$$$  |$$$$$$$$/ /$$$$$$  |
+$$ |  $$ |$$ |__    $$ |  $$ |$$ \__$$/ $$ |__    $$ |  $$/ 
+$$ |  $$ |$$    |   $$ |  $$ |$$      \ $$    |   $$ |      
+$$ |  $$ |$$$$$/    $$ |  $$ | $$$$$$  |$$$$$/    $$ |   __ 
+$$ |__$$ |$$ |_____ $$ |__$$ |/  \__$$ |$$ |_____ $$ \__/  |
+$$    $$/ $$       |$$    $$/ $$    $$/ $$       |$$    $$/ 
+$$$$$$$/  $$$$$$$$/ $$$$$$$/   $$$$$$/  $$$$$$$$/  $$$$$$/  
+
+```
+
+
 A Rising of ctOS 2.0 from Watch_Dogs 2, built using the XFCE Desktop in Arch Linux you can also try in debian. 
 Built using high quality production images and stills from the game, made to be as accurate as possible, while still being usable as an everyday desktop.
 this ctOS only for watch_dogs fans.
